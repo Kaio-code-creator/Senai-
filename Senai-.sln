@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade", "Atividade\Atividade.csproj", "{251B2288-4D3D-485E-8854-29D584F84590}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Atividade 2", "Atividade 2", "{1466158C-CFF3-4E24-9C48-E09FFD83465F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proheto WEB-Lh Pets versão 1", "Atividade 2\PROJETO WEB\Proheto WEB-Lh Pets versão 1.csproj", "{30D775AE-3988-4FC6-8E2B-4F34458D2A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251B2288-4D3D-485E-8854-29D584F84590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251B2288-4D3D-485E-8854-29D584F84590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251B2288-4D3D-485E-8854-29D584F84590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251B2288-4D3D-485E-8854-29D584F84590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D775AE-3988-4FC6-8E2B-4F34458D2A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D775AE-3988-4FC6-8E2B-4F34458D2A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D775AE-3988-4FC6-8E2B-4F34458D2A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D775AE-3988-4FC6-8E2B-4F34458D2A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30D775AE-3988-4FC6-8E2B-4F34458D2A8C} = {1466158C-CFF3-4E24-9C48-E09FFD83465F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2987347E-CC01-48AC-863A-87A88195FD54}
+	EndGlobalSection
+EndGlobal
