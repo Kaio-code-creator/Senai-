@@ -539,3 +539,13 @@ C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\ob
 C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.AssemblyReference.cache
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.AssemblyInfoInputs.cache
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.AssemblyInfo.cs
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.dll
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\refint\Exo.WebApi.dll
+D:\kaio\Minha vida\Programação\Senai-\Atividade 6 API\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
