@@ -31,21 +31,21 @@ namespace Exo.WebApi.Repositories
         }
         public void Atualizar(int id, Projeto projeto)
         {
-        Projeto projetoBuscado = _context.Projetos.Find(id);
-        if (projetoBuscado != null)
-        {
-        projetoBuscado.NomeDoProjeto = projeto.NomeDoProjeto;
-        projetoBuscado.Area = projeto.Area;
-        projetoBuscado.Status = projeto.Status;
-        }
-        _context.Projetos.Update(projetoBuscado);
-        _context.SaveChanges();
+            Projeto projetoBuscado = _context.Projetos.Find(id);
+            if (projetoBuscado != null)
+            {
+                projetoBuscado.NomeDoProjeto = projeto.NomeDoProjeto;
+                projetoBuscado.Area = projeto.Area;
+                projetoBuscado.Status = projeto.Status;
+            }
+            _context.Projetos.Update(projetoBuscado);
+            _context.SaveChanges();
         }
         public void Deletar(int id)
         {
-        Projeto projetoBuscado = _context.Projetos.Find(id);
-        _context.Projetos.Remove(projetoBuscado);
-        _context.SaveChanges();
+            Projeto projetoBuscado = _context.Projetos.Find(id);
+            _context.Projetos.Remove(projetoBuscado);
+            _context.SaveChanges();
         }
-        }
-        }
+    }
+}
